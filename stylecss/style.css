@@ -1,0 +1,139 @@
+html {
+    background-color:#f6f6f6;
+}
+
+body {
+    background-color:#f6f6f6;
+}
+
+#painting {
+	height: 400px;
+	width: 400px;
+	background-color: #fff4db;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	box-shadow: 5px 5px #888888;
+
+}
+
+#toprow {
+	background-color:#f4cbcb;
+	height: 290px;
+}
+
+#bigbox { 
+	height: 290px;
+	width: 290px;
+	
+ }
+
+ .red {
+ 	background-color: red;
+ }
+
+ .blue {
+	background-color: blue;
+ }
+
+ .yellow {
+	background-color: yellow;
+ }
+
+ .black {
+	background-color: black;
+ }
+
+ .right {
+ 	float: right;
+ }
+
+ #td {
+ 	width: 10px;
+ 	height: 290px;
+ }
+
+ #tlc {
+
+ }
+
+ #mb {
+ 	width: 110px;
+ 	height: 140px;
+ }
+
+ #d2 {
+ 	width: 110px;
+ 	height: 10px;
+ }
+
+ .left {
+ 	float:left;
+ }
+
+ #md {
+ 	 width: 400px;
+ 	 height: 10px;
+ }
+
+ #nothing {
+ 	width: 10px;
+ 	height: 290px;
+ }
+
+ #brl {
+
+ }
+
+ #brr {
+
+ }
+
+ #bb {
+ 	width:110px;
+ 	height:100px;
+ 	float:left;
+ }
+
+ #bd {
+ 	width:10px;
+ 	height:100px;
+ 	float:left;
+ }
+
+ #bsb {
+ 	width:30px;
+ 	height:45px;
+ }
+
+ #brd {
+ 	width:30px;
+ 	height:10px;
+ }
+
+ #brmd {
+ 	width:20px;
+ 	height:10px;
+ }
+
+ #nothing2 {
+ 	height:300px;
+ 	width:400px;
+ }
+
+ #nothing3 {
+ 	height:100px;
+ 	width:110px;
+ }
+
+ #middlebox {
+ 	height:100px;
+ 	width:240px;
+ 	float:left;
+ }
+
+ #bmiddledivider {
+ 	width:10px;
+ 	height:100px;
+ 	float:left;
+ }
